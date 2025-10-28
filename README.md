@@ -2,7 +2,14 @@
 
 > Live Project: https://home-rentals.arayaroma.software
 
+## Login Credentials
+```
+email: darayaroma@gmail.com
+password: ae655fc1c350f60e
+```
+
 Minimal admin UI for managing rental properties. This repo contains a small React + Vite app (TypeScript) with an admin layout, property list, detail modal, and minimal Supabase auth wiring.
+
 
 ## Quick start
 
