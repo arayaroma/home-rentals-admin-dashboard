@@ -1,3 +1,5 @@
+
+
 # Home Rentals — Admin Dashboard
 
 Minimal admin UI for managing rental properties. This repo contains a small React + Vite app (TypeScript) with an admin layout, property list, detail modal, and minimal Supabase auth wiring.
@@ -22,7 +24,7 @@ password: ae655fc1c350f60e
 npm install
 ```
 
-1. Create a `.env` file with required environment variables (examples):
+2. Create a `.env` file with required environment variables (examples):
 
 ```env
 VITE_SUPABASE_URL=
@@ -31,7 +33,7 @@ VITE_API_BASE_URL= # e.g. https://api.openweathermap.org/data/2.5/weather
 VITE_OPENWEATHER_API_KEY=
 ```
 
-1. Run the dev server
+3. Run the dev server
 
 ```bash
 npm run dev
